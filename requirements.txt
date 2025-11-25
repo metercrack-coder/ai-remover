@@ -1,5 +1,5 @@
 flask
-gunicorn
-pillow
+flask-cors
 rembg
-numpy
+pillow
+gunicorn
